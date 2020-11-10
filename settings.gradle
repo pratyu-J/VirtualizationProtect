@@ -1,0 +1,3 @@
+include ':CheckVirtualEnv'
+include ':app'
+rootProject.name = "VirtualizationProtect"
